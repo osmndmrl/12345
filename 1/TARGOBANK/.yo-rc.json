@@ -1,0 +1,14 @@
+{
+  "@plentymarkets/generator-plugin": {
+    "promptValues": {
+      "type": "payment"
+    },
+    "answers": {
+      "name": "TARGOBANK PAYMENT",
+      "author": "Osman Demirel",
+      "type": "payment",
+      "description": "targobank",
+      "version": "0.0.1"
+    }
+  }
+}

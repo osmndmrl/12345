@@ -1,0 +1,11 @@
+{
+    "name"              :   "TARGOBANK PAYMENT",
+    "namespace"         :   "TARGOBANK PAYMENT",
+    "type"              :   "payment",
+    "version"           :   "0.0.1",
+    "pluginIcon"        :   "icon_plugin_xs.png",
+    "description"       :   "targobank",
+    "author"            :   "Osman Demirel",
+    "authorIcon"        :   "icon_author_xs.png",
+    "serviceProvider"   :   "TARGOBANK PAYMENT\\Providers\\TARGOBANK PAYMENTServiceProvider"
+}
