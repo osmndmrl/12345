@@ -1,1 +1,32 @@
-[]
+{
+    "pluginName": "TARGOBANK",
+    "pluginVersion": "1.0.0",
+    "pluginDescription": {
+      "de": "TARGOBANK Zahlungsintegration",
+      "en": "TARGOBANK Payment Integration"
+    },
+    "authors": [
+      {
+        "name": "Osman Demirel",
+        "email": "your.email@example.com"
+      }
+    ],
+    "license": "MIT",
+    "compatibility": {
+      "plentyMarkets": {
+        "minVersion": "7.0.0",
+        "maxVersion": "7.9.9"
+      }
+    },
+    "settings": {
+      "hashKey": {
+        "type": "string",
+        "default": "YOUR_SECRET_KEY",
+        "description": {
+          "de": "Geheimer Schlüssel für die Hash-Generierung",
+          "en": "Secret key for hash generation"
+        }
+      }
+    }
+  }
+  
